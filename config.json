@@ -184,7 +184,22 @@
     {
       "type": "SH",
       "code": "512980",
-      "name": "传媒ETF"
+      "name": "传媒ETF",
+      "grids": [
+        {
+          "level": 1,
+          "buy": 0.775,
+          "sell": 0.850,
+          "hold": 14200
+        },
+        {
+          "level": 2,
+          "buy": 0.720,
+          "sell": 0.775,
+          "hold": 0,
+          "plan": 15300
+        }
+      ]
     },
 	{
       "type": "SH",
