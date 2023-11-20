@@ -24,6 +24,11 @@
       "type": "SH",
       "code": "510300",
       "name": "沪深300"
+    },
+    {
+      "type": "SH",
+      "code": "510050",
+      "name": "上证50"
     }
   ],
   "stocks": [
@@ -82,9 +87,9 @@
       "name": "中国联通"
     },
     {
-      "type": "SZ",
-      "code": "159781",
-      "name": "双创50"
+      "type": "SH",
+      "code": "588000",
+      "name": "科创50"
     },
     {
       "type": "SH",
@@ -93,33 +98,21 @@
     },
     {
       "type": "SH",
-      "code": "588000",
-      "name": "科创50"
-    },
-    {
-      "type": "SZ",
-      "code": "000651",
-      "name": "格力电器"
-    },
-    {
-      "type": "SH",
-      "code": "513360",
-      "name": "教育ETF"
+      "code": "512980",
+      "name": "传媒ETF",
+      "grids": [
+        {
+          "level": 1,
+          "buy": 0.775,
+          "sell": 0.890,
+          "hold": 0
+        }
+      ]
     },
     {
       "type": "SH",
       "code": "601816",
       "name": "京沪高铁"
-    },
-    {
-      "type": "SH",
-      "code": "513330",
-      "name": "恒生互联网ETF"
-    },
-    {
-      "type": "SH",
-      "code": "601318",
-      "name": "中国平安"
     },
     {
       "type": "SH",
@@ -152,14 +145,44 @@
       "name": "恒生医药"
     },
     {
-      "type": "SZ",
-      "code": "159825",
-      "name": "农业ETF"
+      "type": "SH",
+      "code": "601318",
+      "name": "中国平安"
+    },
+	{
+      "type": "SH",
+      "code": "512170",
+      "name": "医疗"
     },
     {
+      "type": "SZ",
+      "code": "000651",
+      "name": "格力电器"
+    },
+	{
       "type": "SH",
-      "code": "512660",
-      "name": "军工ETF"
+      "code": "515790",
+      "name": "光伏ETF"
+    },
+	{
+      "type": "SZ",
+      "code": "159938",
+      "name": "医药卫生",
+      "grids": [
+        {
+          "level": 1,
+          "buy": 0.798,
+          "sell": 0.855,
+          "hold": 14600
+        },
+        {
+          "level": 2,
+          "buy": 0.732,
+          "sell": 0.798,
+          "hold": 0,
+          "plan": 16400
+        }
+      ]
     },
     {
       "type": "SZ",
@@ -167,44 +190,14 @@
       "name": "电力ETF"
     },
 	{
-      "type": "SH",
-      "code": "515790",
-      "name": "光伏ETF"
-    },
-    {
       "type": "SZ",
-      "code": "159995",
-      "name": "芯片ETF"
-    },
-    {
-      "type": "SH",
-      "code": "515030",
-      "name": "新能源车"
-    },
-    {
-      "type": "SH",
-      "code": "512980",
-      "name": "传媒ETF",
-      "grids": [
-        {
-          "level": 1,
-          "buy": 0.775,
-          "sell": 0.850,
-          "hold": 14200
-        },
-        {
-          "level": 2,
-          "buy": 0.720,
-          "sell": 0.775,
-          "hold": 0,
-          "plan": 15300
-        }
-      ]
+      "code": "000725",
+      "name": "京东方A"
     },
 	{
-      "type": "SH",
-      "code": "510050",
-      "name": "上证50"
+      "type": "SZ",
+      "code": "159865",
+      "name": "养殖ETF"
     }
   ]
 }
