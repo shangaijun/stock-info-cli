@@ -52,67 +52,14 @@
           "level": 2,
           "buy": 0.762,
           "sell": 0.927,
-          "hold":16500 
-        }
-      ]
-    },
-    {
-      "type": "SZ",
-      "code": "002701",
-      "name": "奥瑞金",
-      "grids": [
-        {
-          "level": 1,
-          "buy": 4.51,
-          "sell": 5.35,
-          "hold": 10000
-        },
-        {
-          "level": 2,
-          "buy": 4.01,
-          "sell": 4.40,
-          "hold": 0,
-          "plan": 5000
-        }
-      ]
-    },
-    {
-      "type": "SZ",
-      "code": "159928",
-      "name": "消费ETF"
-    },
-    {
-      "type": "SH",
-      "code": "600050",
-      "name": "中国联通"
-    },
-    {
-      "type": "SH",
-      "code": "588000",
-      "name": "科创50"
-    },
-    {
-      "type": "SH",
-      "code": "600028",
-      "name": "中国石化"
-    },
-    {
-      "type": "SH",
-      "code": "512980",
-      "name": "传媒ETF",
-      "grids": [
-        {
-          "level": 1,
-          "buy": 0.775,
-          "sell": 0.890,
-          "hold": 0
+          "hold":16500
         }
       ]
     },
     {
       "type": "SH",
-      "code": "601816",
-      "name": "京沪高铁"
+      "code": "601318",
+      "name": "中国平安"
     },
     {
       "type": "SH",
@@ -135,69 +82,34 @@
       ]
     },
     {
-      "type": "SZ",
-      "code": "000876",
-      "name": "新希望"
+      "type": "SH",
+      "code": "600050",
+      "name": "中国联通"
+    },
+    {
+      "type": "SH",
+      "code": "588000",
+      "name": "科创50"
+    },
+    {
+      "type": "SH",
+      "code": "600028",
+      "name": "中国石化"
     },
     {
       "type": "SH",
       "code": "513060",
       "name": "恒生医药"
     },
-    {
-      "type": "SH",
-      "code": "601318",
-      "name": "中国平安"
-    },
-	{
-      "type": "SH",
-      "code": "512170",
-      "name": "医疗"
-    },
-    {
-      "type": "SZ",
-      "code": "000651",
-      "name": "格力电器"
-    },
-	{
-      "type": "SH",
-      "code": "515790",
-      "name": "光伏ETF"
-    },
-	{
-      "type": "SZ",
-      "code": "159938",
-      "name": "医药卫生",
-      "grids": [
-        {
-          "level": 1,
-          "buy": 0.798,
-          "sell": 0.855,
-          "hold": 14600
-        },
-        {
-          "level": 2,
-          "buy": 0.732,
-          "sell": 0.798,
-          "hold": 0,
-          "plan": 16400
-        }
-      ]
-    },
-    {
-      "type": "SZ",
-      "code": "159611",
-      "name": "电力ETF"
-    },
 	{
       "type": "SZ",
       "code": "000725",
       "name": "京东方A"
     },
-	{
+    {
       "type": "SZ",
-      "code": "159865",
-      "name": "养殖ETF"
+      "code": "159611",
+      "name": "电力ETF"
     }
   ]
 }
